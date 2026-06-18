@@ -1,0 +1,54 @@
+
+> portfolio@0.0.0 dev
+> vite --host 127.0.0.1 --port 5174
+
+Re-optimizing dependencies because vite config has changed
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m358[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5174[22m/[39m
+[2m16:21:13[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/data/portfolio.js[22m
+[2m16:21:37[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:22:37[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:22:49[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:24:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:24:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:28:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:29:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:30:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:30:33[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:40:29[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/data/portfolio.js[22m
+[2m16:48:44[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/data/portfolio.js[22m
+[2m16:49:35[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:49:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:51:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:51:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:53:50[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:54:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:56:11[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:56:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:56:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:59:52[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m17:00:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:03:32[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m17:03:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m17:05:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:05:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:43:25[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:43:46[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:45:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m16:51:10[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:51:26[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m16:51:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:24:03[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m17:24:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:25:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:32:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m17:32:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:32:36[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:34:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:35:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:54:26[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m18:00:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m18:06:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m18:07:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m

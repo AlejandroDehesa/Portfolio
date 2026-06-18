@@ -1,0 +1,2603 @@
+[2m19:11:29[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:274:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:279:2: ERROR: Unexpected "return"
+[2m19:11:29[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:274:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:279:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:234:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "p" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  272|          </div>
+  273|        </section>
+  274|      </div>
+     |        ^
+  275|    );
+  276|  }
+  
+  [33mUnexpected "return"[33m
+  277|  
+  278|  function ProjectsPage() {
+  279|    return (
+     |    ^
+  280|      <div className="page-stack">
+  281|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:30[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:274:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:279:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:234:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "p" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  272|          </div>
+  273|        </section>
+  274|      </div>
+     |        ^
+  275|    );
+  276|  }
+  
+  [33mUnexpected "return"[33m
+  277|  
+  278|  function ProjectsPage() {
+  279|    return (
+     |    ^
+  280|      <div className="page-stack">
+  281|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:30[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:274:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:279:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:234:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "p" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  272|          </div>
+  273|        </section>
+  274|      </div>
+     |        ^
+  275|    );
+  276|  }
+  
+  [33mUnexpected "return"[33m
+  277|  
+  278|  function ProjectsPage() {
+  279|    return (
+     |    ^
+  280|      <div className="page-stack">
+  281|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:30[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:274:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:279:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:234:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "p" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  272|          </div>
+  273|        </section>
+  274|      </div>
+     |        ^
+  275|    );
+  276|  }
+  
+  [33mUnexpected "return"[33m
+  277|  
+  278|  function ProjectsPage() {
+  279|    return (
+     |    ^
+  280|      <div className="page-stack">
+  281|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:35[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:237:15: ERROR: Expected ")" but found "className"
+[2m19:11:35[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:237:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:233:12
+[33m  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  231|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  232|  
+  233|            </p>
+     |              ^
+  234|          </div>
+  235|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  235|        </section>
+  236|  
+  237|        <section className="section">
+     |                 ^
+  238|          <SectionHeader
+  239|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:36[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:237:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:233:12
+[33m  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  231|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  232|  
+  233|            </p>
+     |              ^
+  234|          </div>
+  235|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  235|        </section>
+  236|  
+  237|        <section className="section">
+     |                 ^
+  238|          <SectionHeader
+  239|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:36[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:237:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:233:12
+[33m  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  231|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  232|  
+  233|            </p>
+     |              ^
+  234|          </div>
+  235|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  235|        </section>
+  236|  
+  237|        <section className="section">
+     |                 ^
+  238|          <SectionHeader
+  239|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:36[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:237:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:233:12
+[33m  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  231|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  232|  
+  233|            </p>
+     |              ^
+  234|          </div>
+  235|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  235|        </section>
+  236|  
+  237|        <section className="section">
+     |                 ^
+  238|          <SectionHeader
+  239|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:39[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:229:58: ERROR: Expected ">" but found ","
+[2m19:11:39[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:229:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:229:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  227|              <p
+  228|  
+  229|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  230|  
+  231|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:40[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:229:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:229:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  227|              <p
+  228|  
+  229|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  230|  
+  231|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:40[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:229:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:229:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  227|              <p
+  228|  
+  229|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  230|  
+  231|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:40[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:229:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:229:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  227|              <p
+  228|  
+  229|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  230|  
+  231|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:55[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","
+[2m19:11:55[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              <n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:56[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              <n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:56[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              <n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:11:56[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              <n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:00[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 2 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:0: ERROR: Expected ">" but found "Actualmente"
+[2m19:12:00[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 2 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:0: ERROR: Expected ">" but found "Actualmente"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:227:14
+[33m  
+  [33mUnexpected closing "n" tag does not match opening "p" tag[33m
+  225|            <p>
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n
+     |                ^
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+  229|  
+  
+  [33mExpected ">" but found "Actualmente"[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |  ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:01[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 2 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:0: ERROR: Expected ">" but found "Actualmente"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:227:14
+[33m  
+  [33mUnexpected closing "n" tag does not match opening "p" tag[33m
+  225|            <p>
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n
+     |                ^
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+  229|  
+  
+  [33mExpected ">" but found "Actualmente"[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |  ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:01[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 2 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:0: ERROR: Expected ">" but found "Actualmente"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:227:14
+[33m  
+  [33mUnexpected closing "n" tag does not match opening "p" tag[33m
+  225|            <p>
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n
+     |                ^
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+  229|  
+  
+  [33mExpected ">" but found "Actualmente"[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |  ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:01[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 2 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:0: ERROR: Expected ">" but found "Actualmente"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:227:14
+[33m  
+  [33mUnexpected closing "n" tag does not match opening "p" tag[33m
+  225|            <p>
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n
+     |                ^
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+  229|  
+  
+  [33mExpected ">" but found "Actualmente"[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |  ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:01[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 5 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"
+[2m19:12:01[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 5 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:227:14
+[33m  
+  [33mUnexpected closing "n" tag does not match opening "p" tag[33m
+  225|            <p>
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n>
+     |                ^
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+  229|  
+  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  231|  
+  232|            </p>
+     |              ^
+  233|          </div>
+  234|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  234|        </section>
+  235|  
+  236|        <section className="section">
+     |                 ^
+  237|          <SectionHeader
+  238|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:02[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 5 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:227:14
+[33m  
+  [33mUnexpected closing "n" tag does not match opening "p" tag[33m
+  225|            <p>
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n>
+     |                ^
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+  229|  
+  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  231|  
+  232|            </p>
+     |              ^
+  233|          </div>
+  234|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  234|        </section>
+  235|  
+  236|        <section className="section">
+     |                 ^
+  237|          <SectionHeader
+  238|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:02[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 5 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:227:14
+[33m  
+  [33mUnexpected closing "n" tag does not match opening "p" tag[33m
+  225|            <p>
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n>
+     |                ^
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+  229|  
+  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  231|  
+  232|            </p>
+     |              ^
+  233|          </div>
+  234|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  234|        </section>
+  235|  
+  236|        <section className="section">
+     |                 ^
+  237|          <SectionHeader
+  238|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:02[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 5 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:227:14: ERROR: Unexpected closing "n" tag does not match opening "p" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:227:14
+[33m  
+  [33mUnexpected closing "n" tag does not match opening "p" tag[33m
+  225|            <p>
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              </n>
+     |                ^
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+  229|  
+  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  231|  
+  232|            </p>
+     |              ^
+  233|          </div>
+  234|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  234|        </section>
+  235|  
+  236|        <section className="section">
+     |                 ^
+  237|          <SectionHeader
+  238|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:05[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","
+[2m19:12:05[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              <n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              <n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              <n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              <n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|              <n
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:21[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","
+[2m19:12:21[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            <
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:22[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            <
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:22[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            <
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:22[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            <
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:22[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            <
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:22[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","
+[2m19:12:22[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            <p
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:23[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            <p
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:23[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            <p
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:23[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:228:58: ERROR: Expected ">" but found ","[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:228:58
+[33m  
+  [33mExpected ">" but found ","[33m
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            <p
+  228|  Actualmente estoy centrado en mejorar mi criterio técnico, mi capacidad de diseño de software y la calidad de los proyectos que presento.
+     |                                                            ^
+  229|  
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:27[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"
+[2m19:12:27[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:232:12
+[33m  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  231|  
+  232|            </p>
+     |              ^
+  233|          </div>
+  234|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  234|        </section>
+  235|  
+  236|        <section className="section">
+     |                 ^
+  237|          <SectionHeader
+  238|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:28[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:232:12
+[33m  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  231|  
+  232|            </p>
+     |              ^
+  233|          </div>
+  234|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  234|        </section>
+  235|  
+  236|        <section className="section">
+     |                 ^
+  237|          <SectionHeader
+  238|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:28[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:232:12
+[33m  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  231|  
+  232|            </p>
+     |              ^
+  233|          </div>
+  234|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  234|        </section>
+  235|  
+  236|        <section className="section">
+     |                 ^
+  237|          <SectionHeader
+  238|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:12:28[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:232:12: ERROR: Unexpected closing "p" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:236:15: ERROR: Expected ")" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:232:12
+[33m  
+  [33mUnexpected closing "p" tag does not match opening "div" tag[33m
+  230|  Mi portfolio refleja ese proceso: aprender, construir, documentar y mejorar.
+  231|  
+  232|            </p>
+     |              ^
+  233|          </div>
+  234|        </section>
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mExpected ")" but found "className"[33m
+  234|        </section>
+  235|  
+  236|        <section className="section">
+     |                 ^
+  237|          <SectionHeader
+  238|            kicker="Proyectos destacados"
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:17:02[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"
+[2m19:17:02[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:225:10
+[33m  
+  [33mExpected ">" but found "<"[33m
+  223|          <div className="about-panel">
+  224|              <title
+  225|            <p>
+     |            ^
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            </p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:17:03[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:225:10
+[33m  
+  [33mExpected ">" but found "<"[33m
+  223|          <div className="about-panel">
+  224|              <title
+  225|            <p>
+     |            ^
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            </p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:17:03[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:225:10
+[33m  
+  [33mExpected ">" but found "<"[33m
+  223|          <div className="about-panel">
+  224|              <title
+  225|            <p>
+     |            ^
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            </p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:17:03[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:225:10
+[33m  
+  [33mExpected ">" but found "<"[33m
+  223|          <div className="about-panel">
+  224|              <title
+  225|            <p>
+     |            ^
+  226|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  227|            </p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:04[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"
+[2m19:18:04[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:225:10
+[33m  
+  [33mExpected ">" but found "<"[33m
+  223|          <div className="about-panel">
+  224|            <title
+  225|            <p className="eyebrow">Sobre mí</p>
+     |            ^
+  226|            <p>
+  227|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:05[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:225:10
+[33m  
+  [33mExpected ">" but found "<"[33m
+  223|          <div className="about-panel">
+  224|            <title
+  225|            <p className="eyebrow">Sobre mí</p>
+     |            ^
+  226|            <p>
+  227|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:05[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:225:10
+[33m  
+  [33mExpected ">" but found "<"[33m
+  223|          <div className="about-panel">
+  224|            <title
+  225|            <p className="eyebrow">Sobre mí</p>
+     |            ^
+  226|            <p>
+  227|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:05[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:225:10: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:225:10
+[33m  
+  [33mExpected ">" but found "<"[33m
+  223|          <div className="about-panel">
+  224|            <title
+  225|            <p className="eyebrow">Sobre mí</p>
+     |            ^
+  226|            <p>
+  227|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:05[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:272:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:277:2: ERROR: Unexpected "return"
+[2m19:18:05[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:272:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:277:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:233:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "title" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  270|          </div>
+  271|        </section>
+  272|      </div>
+     |        ^
+  273|    );
+  274|  }
+  
+  [33mUnexpected "return"[33m
+  275|  
+  276|  function ProjectsPage() {
+  277|    return (
+     |    ^
+  278|      <div className="page-stack">
+  279|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:272:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:277:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:233:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "title" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  270|          </div>
+  271|        </section>
+  272|      </div>
+     |        ^
+  273|    );
+  274|  }
+  
+  [33mUnexpected "return"[33m
+  275|  
+  276|  function ProjectsPage() {
+  277|    return (
+     |    ^
+  278|      <div className="page-stack">
+  279|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:272:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:277:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:233:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "title" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  270|          </div>
+  271|        </section>
+  272|      </div>
+     |        ^
+  273|    );
+  274|  }
+  
+  [33mUnexpected "return"[33m
+  275|  
+  276|  function ProjectsPage() {
+  277|    return (
+     |    ^
+  278|      <div className="page-stack">
+  279|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:272:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:277:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:233:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "title" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  270|          </div>
+  271|        </section>
+  272|      </div>
+     |        ^
+  273|    );
+  274|  }
+  
+  [33mUnexpected "return"[33m
+  275|  
+  276|  function ProjectsPage() {
+  277|    return (
+     |    ^
+  278|      <div className="page-stack">
+  279|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:233:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:272:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:277:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:233:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "title" tag[33m
+  231|  
+  232|            </p>
+  233|          </div>
+     |            ^
+  234|        </section>
+  235|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  232|            </p>
+  233|          </div>
+  234|        </section>
+     |          ^
+  235|  
+  236|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  270|          </div>
+  271|        </section>
+  272|      </div>
+     |        ^
+  273|    );
+  274|  }
+  
+  [33mUnexpected "return"[33m
+  275|  
+  276|  function ProjectsPage() {
+  277|    return (
+     |    ^
+  278|      <div className="page-stack">
+  279|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:10[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:273:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:278:2: ERROR: Unexpected "return"
+[2m19:18:10[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:273:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:278:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:234:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "title" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  271|          </div>
+  272|        </section>
+  273|      </div>
+     |        ^
+  274|    );
+  275|  }
+  
+  [33mUnexpected "return"[33m
+  276|  
+  277|  function ProjectsPage() {
+  278|    return (
+     |    ^
+  279|      <div className="page-stack">
+  280|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:11[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:273:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:278:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:234:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "title" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  271|          </div>
+  272|        </section>
+  273|      </div>
+     |        ^
+  274|    );
+  275|  }
+  
+  [33mUnexpected "return"[33m
+  276|  
+  277|  function ProjectsPage() {
+  278|    return (
+     |    ^
+  279|      <div className="page-stack">
+  280|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:11[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:273:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:278:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:234:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "title" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  271|          </div>
+  272|        </section>
+  273|      </div>
+     |        ^
+  274|    );
+  275|  }
+  
+  [33mUnexpected "return"[33m
+  276|  
+  277|  function ProjectsPage() {
+  278|    return (
+     |    ^
+  279|      <div className="page-stack">
+  280|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:11[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:234:10: ERROR: Unexpected closing "div" tag does not match opening "title" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:235:8: ERROR: Unexpected closing "section" tag does not match opening "div" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:273:6: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:278:2: ERROR: Unexpected "return"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:234:10
+[33m  
+  [33mUnexpected closing "div" tag does not match opening "title" tag[33m
+  232|  
+  233|            </p>
+  234|          </div>
+     |            ^
+  235|        </section>
+  236|  
+  
+  [33mUnexpected closing "section" tag does not match opening "div" tag[33m
+  233|            </p>
+  234|          </div>
+  235|        </section>
+     |          ^
+  236|  
+  237|        <section className="section">
+  
+  [33mUnexpected closing "div" tag does not match opening "section" tag[33m
+  271|          </div>
+  272|        </section>
+  273|      </div>
+     |        ^
+  274|    );
+  275|  }
+  
+  [33mUnexpected "return"[33m
+  276|  
+  277|  function ProjectsPage() {
+  278|    return (
+     |    ^
+  279|      <div className="page-stack">
+  280|        <section className="section">
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:12[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:10: ERROR: Expected identifier but found "<"
+[2m19:18:12[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:10: ERROR: Expected identifier but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:10
+[33m  
+  [33mExpected identifier but found "<"[33m
+  224|            <title className="section-header">
+  225|              <
+  226|            <p className="eyebrow">Sobre mí</p>
+     |            ^
+  227|            <p>
+  228|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:13[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:10: ERROR: Expected identifier but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:10
+[33m  
+  [33mExpected identifier but found "<"[33m
+  224|            <title className="section-header">
+  225|              <
+  226|            <p className="eyebrow">Sobre mí</p>
+     |            ^
+  227|            <p>
+  228|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:13[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:10: ERROR: Expected identifier but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:10
+[33m  
+  [33mExpected identifier but found "<"[33m
+  224|            <title className="section-header">
+  225|              <
+  226|            <p className="eyebrow">Sobre mí</p>
+     |            ^
+  227|            <p>
+  228|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:13[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:10: ERROR: Expected identifier but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:10
+[33m  
+  [33mExpected identifier but found "<"[33m
+  224|            <title className="section-header">
+  225|              <
+  226|            <p className="eyebrow">Sobre mí</p>
+     |            ^
+  227|            <p>
+  228|              Entiendo el desarrollo como algo más que escribir código: analizar bien el problema, ordenar las ideas y construir soluciones que puedan mantenerse y evolucionar.
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:25[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"
+[2m19:18:25[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:12
+[33m  
+  [33mExpected ">" but found "<"[33m
+  224|            <title className="section-header">
+  225|              <time
+  226|              </title>
+     |              ^
+  227|            <p className="eyebrow">Sobre mí</p>
+  228|            <p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:26[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:12
+[33m  
+  [33mExpected ">" but found "<"[33m
+  224|            <title className="section-header">
+  225|              <time
+  226|              </title>
+     |              ^
+  227|            <p className="eyebrow">Sobre mí</p>
+  228|            <p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:26[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:12
+[33m  
+  [33mExpected ">" but found "<"[33m
+  224|            <title className="section-header">
+  225|              <time
+  226|              </title>
+     |              ^
+  227|            <p className="eyebrow">Sobre mí</p>
+  228|            <p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:26[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:12
+[33m  
+  [33mExpected ">" but found "<"[33m
+  224|            <title className="section-header">
+  225|              <time
+  226|              </title>
+     |              ^
+  227|            <p className="eyebrow">Sobre mí</p>
+  228|            <p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:26[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"
+[2m19:18:26[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:12
+[33m  
+  [33mExpected ">" but found "<"[33m
+  224|            <title className="section-header">
+  225|              <ti
+  226|              </title>
+     |              ^
+  227|            <p className="eyebrow">Sobre mí</p>
+  228|            <p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:27[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:12
+[33m  
+  [33mExpected ">" but found "<"[33m
+  224|            <title className="section-header">
+  225|              <ti
+  226|              </title>
+     |              ^
+  227|            <p className="eyebrow">Sobre mí</p>
+  228|            <p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:27[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:12
+[33m  
+  [33mExpected ">" but found "<"[33m
+  224|            <title className="section-header">
+  225|              <ti
+  226|              </title>
+     |              ^
+  227|            <p className="eyebrow">Sobre mí</p>
+  228|            <p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:18:27[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:226:12: ERROR: Expected ">" but found "<"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:226:12
+[33m  
+  [33mExpected ">" but found "<"[33m
+  224|            <title className="section-header">
+  225|              <ti
+  226|              </title>
+     |              ^
+  227|            <p className="eyebrow">Sobre mí</p>
+  228|            <p>
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m21:59:03[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:176:3: ERROR: Syntax error "U"
+[2m21:59:03[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:176:3: ERROR: Syntax error "U"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:176:3
+[33m  
+  [33mSyntax error "U"[33m
+  174|  }
+  175|  
+  176|  C:\Users\DAM
+     |     ^
+  177|  function ProjectsPage() {
+  178|    return (
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m21:59:03[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:176:3: ERROR: Syntax error "U"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:176:3
+[33m  
+  [33mSyntax error "U"[33m
+  174|  }
+  175|  
+  176|  C:\Users\DAM
+     |     ^
+  177|  function ProjectsPage() {
+  178|    return (
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m21:59:26[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:176:3: ERROR: Syntax error "U"
+[2m21:59:26[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:176:3: ERROR: Syntax error "U"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:176:3
+[33m  
+  [33mSyntax error "U"[33m
+  174|  }
+  175|  
+  176|  C:\Users\DAM
+     |     ^
+  177|  function ProjectsPage() {
+  178|    return (
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m21:59:26[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:176:3: ERROR: Syntax error "U"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:176:3
+[33m  
+  [33mSyntax error "U"[33m
+  174|  }
+  175|  
+  176|  C:\Users\DAM
+     |     ^
+  177|  function ProjectsPage() {
+  178|    return (
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m22:59:47[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:3:69: ERROR: Expected ";" but found "nimport"
+[2m22:59:47[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:3:69: ERROR: Expected ";" but found "nimport"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:3:69
+[33m  
+  [33mExpected ";" but found "nimport"[33m
+  1  |  ﻿import React from "react";
+  2  |  import { Link, NavLink, Navigate, Route, Routes, useParams } from "react-router-dom";
+  3  |  import budgetWiseShowcase from "./assets/budgetwise-showcase.png";`r`nimport profilePhoto from "./assets/alejandro-portfolio.webp";
+     |                                                                       ^
+  4  |  import aiLogo from "./assets/stack/ai-rag.png";
+  5  |  import androidLogo from "./assets/stack/android.png";
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:05:09[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:3:59: ERROR: Expected ";" but found "nimport"
+[2m23:05:09[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:3:59: ERROR: Expected ";" but found "nimport"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:3:59
+[33m  
+  [33mExpected ";" but found "nimport"[33m
+  1  |  ﻿import React from "react";
+  2  |  import { Link, NavLink, Navigate, Route, Routes, useParams } from "react-router-dom";
+  3  |  import aegisShowcase from "./assets/aegis-showcase.png";`r`nimport budgetWiseShowcase from "./assets/budgetwise-showcase.png";
+     |                                                             ^
+  4  |  import profilePhoto from "./assets/alejandro-portfolio.webp";
+  5  |  import aiLogo from "./assets/stack/ai-rag.png";
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:05:09[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx:3:59: ERROR: Expected ";" but found "nimport"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Downloads/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m:3:59
+[33m  
+  [33mExpected ";" but found "nimport"[33m
+  1  |  ﻿import React from "react";
+  2  |  import { Link, NavLink, Navigate, Route, Routes, useParams } from "react-router-dom";
+  3  |  import aegisShowcase from "./assets/aegis-showcase.png";`r`nimport budgetWiseShowcase from "./assets/budgetwise-showcase.png";
+     |                                                             ^
+  4  |  import profilePhoto from "./assets/alejandro-portfolio.webp";
+  5  |  import aiLogo from "./assets/stack/ai-rag.png";
+  [39m
+      at failureErrorWithLog (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\DAM\Downloads\portfolio-profesional-alejandro\portfolio\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)

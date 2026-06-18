@@ -1,0 +1,10 @@
+[2m17:03:32[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "github" in object literal[33m
+883|      testing: "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/flask-conical.svg",
+884|      vite: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg",
+885|      github: gitLogo,
+   |      ^
+886|      kotlin: kotlinLogo,
+887|      postgresql: postgresLogo,
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DAM/Desktop/portfolio-profesional-alejandro/portfolio/src/App.jsx[39m
