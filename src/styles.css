@@ -2300,14 +2300,15 @@ h1 {
 }
 
 .contact-action-grid {
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 14px;
 }
 
 .contact-action-grid .button {
-  min-height: 68px;
+  min-height: 58px;
   width: 100%;
-  font-size: 1.04rem;
+  padding: 10px 14px;
+  font-size: .95rem;
 }
 
 .contact-final-note {
