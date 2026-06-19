@@ -1377,6 +1377,14 @@ function ContactButtonIcon({ name }) {
         <path d="m14 5-4 14" />
       </svg>
     ),
+    cv: (
+      <svg {...commonProps} fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2">
+        <path d="M14 3.5H7.5A2.5 2.5 0 0 0 5 6v12a2.5 2.5 0 0 0 2.5 2.5h9A2.5 2.5 0 0 0 19 18V8.5Z" />
+        <path d="M14 3.5v5h5" />
+        <path d="M8.5 13h7" />
+        <path d="M8.5 16h5" />
+      </svg>
+    ),
   };
 
   return <span className="button-icon">{icons[name]}</span>;
@@ -1564,6 +1572,16 @@ function ContactPage() {
             <ContactButtonIcon name="linkedin" />
             LinkedIn
           </ExternalLink>
+          <a
+            className="button button-primary"
+            href={profile.links.cv}
+            target="_blank"
+            rel="noreferrer"
+            download
+          >
+            <ContactButtonIcon name="cv" />
+            CV <Arrow />
+          </a>
           <Link className="button button-primary" to="/proyectos">
             <ContactButtonIcon name="projects" />
             Proyectos <Arrow />
