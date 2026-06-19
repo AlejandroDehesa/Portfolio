@@ -1034,6 +1034,15 @@ function HomePage() {
               Ver proyectos <Arrow />
             </Link>
             <ExternalLink href={profile.links.github}>Ver GitHub</ExternalLink>
+            <a
+              className="button button-secondary"
+              href={profile.links.cv}
+              target="_blank"
+              rel="noreferrer"
+              download
+            >
+              Descargar CV <Arrow />
+            </a>
             <Link className="button button-secondary" to="/contacto">
               Contacto <Arrow />
             </Link>

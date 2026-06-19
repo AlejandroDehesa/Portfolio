@@ -11,6 +11,7 @@ export const profile = {
   links: {
     github: "https://github.com/AlejandroDehesa",
     linkedin: "https://www.linkedin.com/in/alejandro-dehesa-delgado-48152538a/",
+    cv: "/cv-alejandro-dehesa-delgado.pdf",
   },
 };
 
